@@ -528,7 +528,6 @@ public class App {
     }
   }
 
-  // debug (data awal buat testing)
   private static void load() {
     Food newFood = new Food("Coca cola [F]",12000,12,12,2022);
     Cloth newCloth = new Cloth("Bape X series [C]",7900000,"L");
